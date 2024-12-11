@@ -80,8 +80,8 @@ def user_input(user_question):
 
 
 def send_email(response_text):
-    sender_email = "ritikadobhal710@gmail.com"
-    receiver_email = "2023.ritika.dobhal@ves.ac.in"
+    sender_email = ""
+    receiver_email = ""
     subject = "PDF Chatbot Response"
 
     # Create email message
